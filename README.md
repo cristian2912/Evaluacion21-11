@@ -1,5 +1,6 @@
 # CODIGO
 
+```
 def radix_sort(placas, matriculas):
     max_len = 6
     n = len(placas)
@@ -59,3 +60,5 @@ if matricula is not None:
     print(f"La matricula asociada es: {matricula}")
 else:
     print(f"La placa {placa_buscada} no se encontro.")
+
+```
